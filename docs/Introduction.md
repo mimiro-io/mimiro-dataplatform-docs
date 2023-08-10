@@ -2,7 +2,7 @@
 
 The MIMIRO data platform is a lightweight, composable data platform for liberating data from silos, curating it into reusable data products and ensuring the delivery of the data to where it is needed in the organisation or delivered securly between organisations. 
 
-# Use Cases and Problems Solved
+# All the things this helps you do - business and technology
 
 ## data integration
 
@@ -18,3 +18,4 @@ The MIMIRO data platform is a lightweight, composable data platform for liberati
 
 ## personal data pods
 
+## semantic data modelling 
