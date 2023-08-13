@@ -1,0 +1,62 @@
+-   Intro
+    -- Semantic Graph for integration
+    -- Data Sharing using UDA
+    ---- Drawing example system
+    -- Data structures
+    ---- batch, entity, context, continuation token
+
+-   Usage
+    -- Obtain and run
+    -- System requirements & Environment Configuration
+    -- Authentication & Authorization
+    -- Backup
+    -- Garbage Collection
+
+-   Datasets
+    -- List
+    -- Create
+    -- Delete
+    -- Secure (Authorization)
+    -- Loading datasets
+    -- Getting Entities from datasets
+    -- Setting public namespaces for Datasets
+    -- Proxy datasets
+
+-   Graph Query
+    -- single id
+    -- related entities
+    -- incoming vs outgoing
+    -- all parameters
+
+-   Javascript Query
+
+-   Content
+    --
+
+-   Jobs
+    -- Overview
+    -- source types
+    -- sink types
+    -- triggers
+    ---- error handlers
+    -- transforms
+
+-   Jobs API
+    -- List
+    -- Create
+    -- Delete
+    -- Inspect
+    -- Run
+    -- Get status
+    -- history
+    -- Pause/Unpause
+
+-   Transforms
+    -- External Transform
+    -- Javascript Transform
+    ---- Typescript library
+    -- API functions
+
+-   -- Transactions API
+
+-   Generate OpenAPI/Swagger json?
